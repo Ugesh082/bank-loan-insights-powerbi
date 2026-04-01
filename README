@@ -1,0 +1,28 @@
+Bank Loan Insights Dashboard
+
+Overview
+
+I built this Power BI dashboard to understand how bank loans are performing and what factors are linked to loan defaults. The dataset contains around 38K records, and the goal was to break it down into something meaningful for decision-making.
+
+What I did
+
+• Cleaned and prepared the dataset
+• Created KPIs like total applications, funded amount, received amount
+• Built multiple dashboard views (Summary, Overview, Details)
+• Used filters to explore loan status, grade, and state
+
+Key observations
+
+• Loans with higher DTI tend to have higher chances of default
+• Charged-off loans generally have higher interest rates
+• Most loan applications are for debt consolidation
+• A large portion of loans are long-term (60 months)
+
+What I understood from this
+
+This project helped me see how financial indicators like interest rate and DTI impact loan risk. It also showed how important it is to segment data properly instead of just looking at totals.
+
+Files
+Dataset: data/financial_loan.csv
+Dashboard file: powerBI/bank_loan_data_insights.pbix
+Screenshots: assets/
